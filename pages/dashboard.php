@@ -70,10 +70,10 @@ $jumlah_perusahaan=mysqli_num_rows($query_perusahaan);
           <div class="card">
             <div class="card-header p-3 pt-2">
               <div class="icon icon-lg icon-shape bg-gradient-primary shadow-primary text-center border-radius-xl mt-n4 position-absolute">
-                <i class="material-icons opacity-10">group</i>
+                <i class="material-icons opacity-10">groupppp</i>
               </div>
               <div class="text-end pt-1">
-                <p class="text-sm mb-0 text-capitalize">Siswa</p>
+                <p class="text-sm mb-0 text-capitalize">Siswaaaa</p>
                 <h4 class="mb-0"><?php echo $jumlah_siswa;?></h4>
               </div>
             </div>
